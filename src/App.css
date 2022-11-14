@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  background-color: lightblue;
+  color: white;
+}
+
+.col-2-5 {
+  flex: 0 0 auto;
+  width: 10%;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
